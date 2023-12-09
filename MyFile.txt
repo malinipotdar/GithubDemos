@@ -6,3 +6,4 @@ add
 adding new line
 Trying something new
 save
+new day
