@@ -1,5 +1,6 @@
-error.log
+error.log/
 *.log
-error1.log
+error1.log/
 *.log
 /Trail
+traifile.txt/
